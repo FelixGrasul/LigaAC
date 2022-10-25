@@ -1,0 +1,31 @@
+html, body 
+{
+    overflow-y: hidden;
+    overflow-x: hidden;
+    width: 100%;
+    height: 100%;
+    margin: 0;        
+}
+
+.UpperSide 
+{
+    width: 100%;
+    height: 50%;
+    background-color: red;
+}
+
+.BottomSide
+{
+    width: 100%;
+    height: 50%;
+    background-color: green;
+}
+
+.btn {
+    position: relative;
+    margin-top: 22vw;
+    margin-left: 45vw;
+    border: .2vw solid black;
+    height: 6vh;
+    width: 10vw;
+}
